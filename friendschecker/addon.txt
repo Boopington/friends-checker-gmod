@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"		"Friends list checker"
+	"version"		"1.0"
+	"author_name"	"Boopington"
+	"info"		"Check to see friends locally on a client."
+}
